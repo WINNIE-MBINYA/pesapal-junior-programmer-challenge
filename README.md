@@ -77,7 +77,7 @@ Displays the repository’s current state, including:
 
 #### 7. Create a New Branch
 ```bash
-$ python3 vcs.py branch <branch_name>
+$ python3 vcs.py branch <branch_name >
 ```
 Creates a new branch with the specified name.
 
